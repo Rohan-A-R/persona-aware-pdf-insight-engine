@@ -1,0 +1,10 @@
+__pycache__/
+*.log
+*.pdf
+*.zip
+*.tar.gz
+.ipynb_checkpoints/
+data/
+venv/
+*.egg-info/
+.git/

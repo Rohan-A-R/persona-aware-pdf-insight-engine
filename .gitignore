@@ -1,0 +1,43 @@
+# Ignore Python cache and virtualenv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.DS_Store
+*.egg-info/
+venv/
+.env
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+
+# Ignore input/output artifacts
+input/
+output/
+*.pdf
+
+
+# VSCode settings (optional)
+.vscode/
+
+# Docker files generated at runtime
+*.dockerfile
+*.tar
+*.img
+
+# Jupyter notebooks (if experimenting)
+*.ipynb
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+
+# Test coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+.cache/
+pytest_cache/
