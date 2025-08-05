@@ -1,4 +1,4 @@
-# 📄 Adobe Hackathon 1B: AI-Powered PDF Summarization & Persona-Aware Relevance Extractor
+# 📄 AI-Powered PDF Summarization & Persona-Aware Relevance Extractor
 
 This project is a fully offline, containerized system that processes PDF documents and surfaces the most relevant sections based on a user's **persona** and **task**. It delivers concise summaries and contextual insights using a multi-stage semantic ranking pipeline.
 
